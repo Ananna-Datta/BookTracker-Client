@@ -1,5 +1,7 @@
 # Minimal Library Management System | BOOKTRACKR 📚
 
+Live link:https://booktrack-client.vercel.app
+
 Welcome to the **Minimal Library Management System**! This is a simple, clean, and fully functional app built with **React**, **TypeScript**, and **Redux Toolkit Query (RTK Query)** to manage books and borrowing in a library — all without the hassle of authentication or complex features. Perfect for learning and quick demos!
 
 ---
